@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+__pycache__/
+.ipynb_checkpoints
+
 # Log file
 *.log
 
